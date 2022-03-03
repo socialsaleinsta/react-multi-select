@@ -60,6 +60,6 @@
   },
   "main": "dist/index.js",
   "engines": {
-    "npm": "^3.0.0"
+    "npm": "^8.3.1"
   }
 }
