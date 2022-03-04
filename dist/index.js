@@ -196,4 +196,4 @@ var styles = {
 exports.default = MultiSelect;
 exports.Dropdown = _dropdown2.default;
 exports.SelectPanel = _selectPanel2.default;
-exports.SelectItem = _selectItem2.default;
+//exports.SelectItem = _selectItem2.default;
